@@ -1,0 +1,12 @@
+-Ejecutar el App.java
+-primero de todo ir a sign in para crear el usuario
+-el nombre de usuario es un DNI obligatoriamente, no deberia dejar escribir cualquier cosa, solo 8 numeros y una letra
+-una vez creado te devuelve al login y puedes introducir tus datos
+-ya logueado se puede ir moviendo por los menus y toquitear de todo
+
+
+*la funcion de enviar mail no funciona aun
+*la funcion cancel en los menus reserved copies y en support no van aun
+*la funcion exit del menu te devuelve al login y hay que volver a crear el usuario porque lo que hace es un new login(), en el que esta vacio el array de los usuarios
+*en reserved copies solo se muestran los ejemplares que tiene el cliente, no funcionan aun las funciones de cancelar reserva o devolver, de hecho no aparecen en ningun lado
+
